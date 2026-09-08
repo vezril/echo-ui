@@ -9,10 +9,10 @@ posts videos into the gallery.
 ## Conventions
 
 `UX-STANDARDS.md` + `UI-PLAYBOOK.md` in this folder are the **copied-in binding standards** (dark-
-only, per-god accent; same build/deploy conventions as the sibling consoles). **Accent: TBD** — Echo
-has no mark yet; assign one in `codex/docs/ux-standards.md` and generate art via the
-constellation-logo pipeline. Deploys are the Codex session's. Owner/coordination per
-`codex/docs/session-coordination.md`.
+only, per-god accent; same build/deploy conventions as the sibling consoles). **Accent: signal azure
+`#40B0E4`** (`oklch(0.78 0.14 225)`) — assigned 2026-09-08, in `codex/docs/ux-standards.md`. Mark:
+prompt ready in `codex/docs/brand/README.md`, awaiting a Gemini render → `codex/docs/brand/echo.png`.
+Deploys are the Codex session's. Owner/coordination per `codex/docs/session-coordination.md`.
 
 ## Stack (when built)
 
